@@ -17,8 +17,8 @@ End the progrma
 ### PROGRAM:
 ```
 Distance between two points
-Name: Soundariyan M N
-Register no: 22008643
+Developed by: Soundariyan M N
+Register no: 22008347
 ```
 ```python
 import math 
